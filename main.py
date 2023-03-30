@@ -8,13 +8,6 @@ def print_hi(name):
     print(f'Hi, {name}')
 
 
-def class der (self, name)
-    name = "taras"
-far = der.name
-
-Print ("far")
-
-
 # Press Ctrl+F8 to toggle the breakpoint.
 # Use a breakpoint in the code line below to debug your script.
 # press the green button in the gutter to run the script.
